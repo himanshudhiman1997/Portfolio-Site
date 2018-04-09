@@ -1,0 +1,42 @@
+#imagelogo
+{
+    height: 100px;
+    max-width: 100%;
+    float: left;
+}
+#font1
+{   font-size: 32px;
+    text-align: right;
+    font-family: 'Fresca';
+    color: #8B4513;
+}
+div
+{
+    margin-top: 10px;
+}    
+#idhr
+{
+    height: 6px;
+    background-color: #7d97ad;
+}
+#midimage
+{
+    margin-bottom: 10px;
+    max-width: 100%;
+    height: auto;
+}
+p.a 
+{
+    font-size: 30px;
+    color: #7d97ad;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2.b
+{
+    font-family: 'Kaushan Script';
+    color: #2d3c49;
+    text-align: center;
+
+}
+
+
